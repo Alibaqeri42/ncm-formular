@@ -1,0 +1,14 @@
+body{
+    background:#DFE0E3;
+    text-align: center;
+    width: 300px1;
+    margin: auto;
+    padding: 100px;
+    border-radius: 5px;
+}
+input{
+    padding:5px;
+    width:280px;
+    margin:5px;
+    font-family: tahoma
+}
